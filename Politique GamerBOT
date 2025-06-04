@@ -1,0 +1,113 @@
+Politique de Confidentialité pour [GamerBOT]
+Dernière mise à jour : [04/06/2025]
+
+Bienvenue sur [GamerBOT] (ci-après dénommé "le Bot") ! Cette Politique de Confidentialité a pour but de vous informer sur la manière dont nous collectons, utilisons et protégeons les informations lorsque vous utilisez notre Bot sur votre serveur Discord.
+
+En ajoutant et en utilisant ce Bot, vous consentez aux pratiques décrites dans cette politique.
+
+1. Responsable du Traitement
+Le responsable du traitement des données pour le Bot [GamerBOT] est [Gamerzone], joignable à [Gamerzone21. (pseudo discord)].
+
+2. Informations que Nous Collectons
+Le Bot est conçu pour minimiser la collecte de données personnelles. Les informations que nous pouvons collecter et traiter incluent :
+
+Identifiants Discord :
+
+Votre identifiant d'utilisateur Discord (Gamerzone) : pour vous identifier de manière unique afin de gérer votre progression dans le système de niveaux (XP), vos achats dans la boutique (si activée), et pour attribuer des sanctions de modération.
+
+L'identifiant du serveur Discord (Guild ID) : pour stocker les configurations et les données spécifiques au serveur (par exemple, les données de niveaux des membres de ce serveur).
+
+L'identifiant des canaux Discord (Channel ID) : potentiellement pour des configurations spécifiques à des canaux (par exemple, où envoyer des logs, où désactiver l'XP).
+
+Données relatives à l'utilisation du Bot :
+
+Système de Niveaux : Nous stockons les points d'expérience (XP) que vous gagnez en envoyant des messages sur les serveurs où le Bot est actif. Le contenu des messages eux-mêmes n'est pas stocké de manière persistante pour cette fonctionnalité.
+
+Commandes de Modération : Lorsque des commandes de modération (!kick, !ban, !tempban, !tempmute) sont utilisées, le Bot peut enregistrer l'identifiant de l'utilisateur sanctionné, l'identifiant du modérateur ayant exécuté la commande, la raison de la sanction, et la durée (pour les sanctions temporaires). Ces informations sont nécessaires au bon fonctionnement des sanctions temporaires et à des fins de journalisation interne si configuré par les administrateurs du serveur.
+
+Jeu (Morpion) : Aucune donnée personnelle n'est stockée de manière persistante pour le jeu de Morpion au-delà de la durée de la partie.
+
+Boutique (si activée) : Si vous effectuez des achats dans la boutique (!shop, !buy), nous enregistrons les articles que vous avez achetés et l'XP dépensée pour mettre à jour votre solde d'XP.
+
+Données Techniques :
+
+Le Bot peut interagir avec l'API Discord pour récupérer des informations publiques sur les utilisateurs (comme le nom d'utilisateur et l'avatar) afin de les afficher dans des commandes (par exemple, dans le leaderboard ou les messages de montée de niveau). Ces informations ne sont généralement pas stockées de manière persistante par le Bot lui-même, mais sont récupérées en temps réel depuis Discord.
+
+Nous ne collectons PAS :
+
+Le contenu de vos messages privés.
+
+Des informations personnelles sensibles telles que votre adresse e-mail, votre mot de passe Discord, votre nom réel (sauf s'il est identique à votre pseudo Discord), votre adresse IP, ou des informations de paiement.
+
+3. Comment Nous Utilisons Vos Informations
+Les informations collectées sont utilisées exclusivement pour :
+
+Fournir, maintenir et améliorer les fonctionnalités du Bot (modération, système de niveaux, jeux, boutique).
+
+Permettre aux modérateurs d'utiliser les outils de modération.
+
+Permettre aux utilisateurs de suivre leur progression (XP et niveaux).
+
+Gérer le système de boutique et les achats des utilisateurs (si la fonctionnalité est activée).
+
+Assurer la sécurité et la stabilité du Bot.
+
+4. Partage des Informations
+Nous ne vendons, n'échangeons, ni ne louons vos informations personnelles identifiables à des tiers.
+Vos données (User ID, XP, etc.) sont spécifiques au serveur Discord sur lequel vous interagissez avec le Bot et ne sont généralement pas partagées entre différents serveurs Discord, sauf si cela est explicitement une fonctionnalité du Bot (ce qui n'est pas le cas pour les fonctionnalités décrites).
+
+Nous pouvons divulguer des informations si la loi l'exige ou si nous croyons de bonne foi qu'une telle action est nécessaire pour :
+
+Se conformer à une obligation légale.
+
+Protéger et défendre nos droits ou notre propriété.
+
+Prévenir ou enquêter sur d'éventuels actes répréhensibles en relation avec le Bot.
+
+Protéger la sécurité personnelle des utilisateurs du Bot ou du public.
+
+5. Stockage et Sécurité des Données
+Les données relatives à l'XP, aux niveaux et aux actions de modération temporaires sont stockées dans des fichiers (par exemple, des fichiers JSON) hébergés sur le serveur où le Bot est exécuté.
+
+Nous prenons des mesures raisonnables pour protéger les informations contre la perte, l'utilisation abusive, l'accès non autorisé, la divulgation, l'altération ou la destruction. Cependant, aucune méthode de transmission sur Internet ou de stockage électronique n'est sécurisée à 100 %.
+
+6. Conservation des Données
+Nous conservons les données collectées aussi longtemps que nécessaire pour fournir les fonctionnalités du Bot ou tant que le Bot est présent sur un serveur.
+
+Les données d'XP et de niveaux sont conservées tant que l'utilisateur est actif sur un serveur utilisant le Bot.
+
+Les données de sanctions temporaires (tempban, tempmute) sont conservées jusqu'à l'expiration de la sanction.
+
+Les administrateurs de serveur peuvent demander la suppression des données de leur serveur en retirant le Bot du serveur, ce qui peut entraîner la suppression des données associées à ce serveur (selon la configuration de la persistance des données du Bot).
+
+7. Vos Droits
+Selon votre juridiction, vous pouvez avoir certains droits concernant vos données personnelles.
+Étant donné la nature des données collectées (principalement des identifiants Discord et des données de jeu/activité au sein de Discord) :
+
+Vous pouvez généralement voir votre XP et votre niveau via les commandes du Bot (!level).
+
+Si vous souhaitez que vos données liées à l'XP soient supprimées d'un serveur spécifique, vous pouvez en faire la demande à l'administrateur de ce serveur, qui pourra potentiellement réinitialiser ou supprimer manuellement ces données (si le Bot offre cette fonctionnalité) ou en retirant le Bot.
+
+Pour toute question sur vos données, vous pouvez contacter le responsable du traitement mentionné à la section 1.
+
+8. Politique Concernant les Enfants
+Le Bot n'est pas destiné aux enfants de moins de 13 ans (ou l'âge de consentement numérique applicable dans votre pays). Nous ne collectons pas sciemment d'informations personnelles identifiables auprès d'enfants de moins de cet âge. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter.
+
+9. Modifications de cette Politique de Confidentialité
+Nous pouvons mettre à jour notre Politique de Confidentialité de temps à autre. Nous vous informerons de tout changement en publiant la nouvelle Politique de Confidentialité sur cette page et en mettant à jour la date de "Dernière mise à jour". Il vous est conseillé de consulter cette Politique de Confidentialité périodiquement pour toute modification.
+
+10. Contactez-Nous
+Si vous avez des questions concernant cette Politique de Confidentialité, veuillez nous contacter :
+[Votre Nom d'Utilisateur Discord / Moyen de Contact Préféré]
+
+Instructions pour l'utilisation de ce modèle :
+
+Remplacez les mentions entre crochets [] par les informations spécifiques à votre bot (nom du bot, date, moyen de contact).
+
+Vérifiez attentivement la section "Informations que Nous Collectons" et adaptez-la pour qu'elle reflète EXACTEMENT ce que votre bot fait et les données qu'il stocke. Soyez aussi précis et transparent que possible.
+
+Hébergez cette page (de la même manière que les Conditions d'Utilisation) pour obtenir une URL.
+
+Ajoutez le lien dans le champ "Privacy Policy URL" sur le Portail des Développeurs Discord pour votre application.
+
+Cette politique de confidentialité est un point de départ. Pour des bots plus complexes ou ceux traitant des données plus sensibles, il pourrait être nécessaire de consulter un professionnel pour s'assurer de la conformité avec toutes les réglementations applicables (comme le RGPD si vous avez des utilisateurs dans l'UE).
